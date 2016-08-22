@@ -10,15 +10,15 @@ Centrify.Samples.DotNet.SIEMUtility.sln (VS 2015) contains two projects:
   
   This utility can also be used to simply export reports, export analytic information, and aggrigate any data within the Centrify Identity Platform data tables. 
   Please see the reports menu in the Centrify Cloud Manager for more information on what tables exist and what data exists in the tables.
+
+# Installation and use Instructions:
  
- Installation and use Instructions:
- 
- *First compile the solution in Release
- *Copy the contents of the Relase folder to a location of your choice
- *Open the Queries.json file and customize desired queries. Default queries are all event log entries for the day and all proxy entries
- *Open the App.config file and customize your Centrify tenant url, admin username, and admin password. Make sure the admin account is set to not use MFA or the utility will fail.
- *Run utility from command line or by double click
- *Results will be located in the Output folder in the root of the utility directory.
- *Use a scheduling tool, such as Windows Task Scheduler, to run the utility on a scheduled basis. The utility can be ran as often as desired as long as it has a chance to finish running before it is ran again.
- *Point SIEM software to Output folder in root and have it ingest the output csv files.
+1. First compile the solution in Release
+2. Copy the contents of the Relase folder to a location of your choice
+3. Open the Queries.json file and customize desired queries. Default queries are all event log entries for the day and all proxy entries
+4. Open the App.config file and customize your Centrify tenant url, admin username, and admin password. Make sure the admin account is set to not use MFA or the utility will fail.
+5. Run utility from command line or by double click
+6. Results will be located in the Output folder in the root of the utility directory.
+7. Use a scheduling tool, such as Windows Task Scheduler, to run the utility on a scheduled basis. The utility can be ran as often as desired as long as it has a chance to finish running before it is ran again.
+8. Point SIEM software to Output folder in root and have it ingest the output csv files.
    
