@@ -1,9 +1,0 @@
-c:\users\nick.gamb\documents\visual studio 2015\Projects\Centrify.Samples.DotNet.SIEMUtility\Centrify.Samples.DotNet.SIEMUtility\bin\Debug\Centrify.Samples.DotNet.SIEMUtility.exe.config
-c:\users\nick.gamb\documents\visual studio 2015\Projects\Centrify.Samples.DotNet.SIEMUtility\Centrify.Samples.DotNet.SIEMUtility\bin\Debug\Centrify.Samples.DotNet.SIEMUtility.exe
-c:\users\nick.gamb\documents\visual studio 2015\Projects\Centrify.Samples.DotNet.SIEMUtility\Centrify.Samples.DotNet.SIEMUtility\bin\Debug\Centrify.Samples.DotNet.SIEMUtility.pdb
-c:\users\nick.gamb\documents\visual studio 2015\Projects\Centrify.Samples.DotNet.SIEMUtility\Centrify.Samples.DotNet.SIEMUtility\bin\Debug\Centrify.Samples.DotNet.ApiLib.dll
-c:\users\nick.gamb\documents\visual studio 2015\Projects\Centrify.Samples.DotNet.SIEMUtility\Centrify.Samples.DotNet.SIEMUtility\bin\Debug\Centrify.Samples.DotNet.ApiLib.pdb
-c:\users\nick.gamb\documents\visual studio 2015\Projects\Centrify.Samples.DotNet.SIEMUtility\Centrify.Samples.DotNet.SIEMUtility\obj\Debug\Centrify.Samples.DotNet.SIEMUtility.csprojResolveAssemblyReference.cache
-c:\users\nick.gamb\documents\visual studio 2015\Projects\Centrify.Samples.DotNet.SIEMUtility\Centrify.Samples.DotNet.SIEMUtility\obj\Debug\Centrify.Samples.DotNet.SIEMUtility.exe
-c:\users\nick.gamb\documents\visual studio 2015\Projects\Centrify.Samples.DotNet.SIEMUtility\Centrify.Samples.DotNet.SIEMUtility\obj\Debug\Centrify.Samples.DotNet.SIEMUtility.pdb
-c:\users\nick.gamb\documents\visual studio 2015\Projects\Centrify.Samples.DotNet.SIEMUtility\Centrify.Samples.DotNet.SIEMUtility\bin\Debug\Queries.json
