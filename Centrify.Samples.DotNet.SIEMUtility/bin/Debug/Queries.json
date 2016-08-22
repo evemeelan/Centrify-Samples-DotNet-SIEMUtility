@@ -1,0 +1,12 @@
+﻿{
+    "queries": [
+        {
+            "caption": "Event",
+            "query": "Select * from Event where whenoccurred >= DateFunc('today')"
+        },
+        {
+            "caption": "Proxy",
+            "query": "Select * from Proxy"
+        }
+    ]
+}

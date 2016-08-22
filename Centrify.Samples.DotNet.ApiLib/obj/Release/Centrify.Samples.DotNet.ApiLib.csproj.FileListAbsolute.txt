@@ -1,0 +1,6 @@
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Customer_Projects\Fidelity_Sync_Utility\Centrify.Samples.DotNet.ApiLib\bin\Release\Centrify.Samples.DotNet.ApiLib.dll.config
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Customer_Projects\Fidelity_Sync_Utility\Centrify.Samples.DotNet.ApiLib\bin\Release\Centrify.Samples.DotNet.ApiLib.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Customer_Projects\Fidelity_Sync_Utility\Centrify.Samples.DotNet.ApiLib\bin\Release\Centrify.Samples.DotNet.ApiLib.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Customer_Projects\Fidelity_Sync_Utility\Centrify.Samples.DotNet.ApiLib\obj\Release\Centrify.Samples.DotNet.ApiLib.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Customer_Projects\Fidelity_Sync_Utility\Centrify.Samples.DotNet.ApiLib\obj\Release\Centrify.Samples.DotNet.ApiLib.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Customer_Projects\Fidelity_Sync_Utility\Centrify.Samples.DotNet.ApiLib\obj\Release\Centrify.Samples.DotNet.ApiLib.pdb
