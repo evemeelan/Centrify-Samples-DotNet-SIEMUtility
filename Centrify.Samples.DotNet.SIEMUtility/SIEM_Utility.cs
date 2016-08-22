@@ -21,7 +21,7 @@ namespace Centrify.Samples.DotNet.SIEMUtility
                 lastRunTime = Convert.ToDateTime(File.ReadAllText("LastRun.txt"));
             }
 
-            //Output all console logs to log file
+            //Output all console logs to log file 
             FileStream filestream = new FileStream("log.txt", FileMode.Create);
             var streamwriter = new StreamWriter(filestream);
             streamwriter.AutoFlush = true;
