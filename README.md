@@ -10,8 +10,8 @@ Centrify.Samples.DotNet.SIEMUtility.sln (VS 2015) contains two projects:
   
   This utility can also be used to simply export reports, export analytic information, and aggrigate any data within the Centrify Identity Platform data tables. 
   Please see the reports menu in the Centrify Cloud Manager for more information on what tables exist and what data exists in the tables.
- 
- Installation and use Instructions:
+
+# Installation and use Instructions:
  
 1. First compile the solution in Release
 2. Copy the contents of the Relase folder to a location of your choice
